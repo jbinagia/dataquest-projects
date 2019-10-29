@@ -1,2 +1,12 @@
-# dataquest-projects
-A list of the guided projects I have worked through while working on the Data Scientist certificate on DataQuest. 
+# DataQuest Guided Projects
+A list of the guided projects I have worked through while working on the Data Scientist certificate on DataQuest.
+
+## Data Analysis and Visualization
+- [Exploring Ebay Car Sales Data](Ebay Auto Sales/Basics.ipynb)
+- Visualizing Earnings Based On College Majors
+- Visualizing The Gender Gap In College Degrees
+
+*Skills learned: NumPy, pandas*
+
+## Working with Data Sources
+- Analyzing CIA Factbook Data Using SQLite and Python
