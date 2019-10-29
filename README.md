@@ -6,7 +6,7 @@ A list of the guided projects I have worked through while working on the Data Sc
 - Visualizing Earnings Based On College Majors
 - Visualizing The Gender Gap In College Degrees
 
-*Tools used: NumPy, pandas* \
+*Tools used: NumPy, pandas, matplotlib, seaborn* \
 *Skills practiced: Data cleaning, exploratory analysis*
 
 ## Working with Data Sources
