@@ -7,6 +7,7 @@ A list of the guided projects I have worked through while working on the Data Sc
 - Visualizing The Gender Gap In College Degrees
 
 *Tools: NumPy, pandas*
+
 *Skills: Data cleaning, exploratory analysis*
 
 ## Working with Data Sources
